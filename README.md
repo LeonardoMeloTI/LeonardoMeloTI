@@ -50,5 +50,5 @@
   <a href="https://www.instagram.com/leonardo.mello96/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  
   <a href = "mailto:leonardomelosrj@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/leonardo-melorj/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "https://api.whatsapp.com/send?phone=5511946703672&text=Olá vi seu contato no GitHub!, podemos falar?"><img src="https://img.shields.io/badge/Whatsapp-D148343?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>         
+  <a href = "https://api.whatsapp.com/send?phone=5521993067602&text=Olá vi seu contato no GitHub!, podemos falar?"><img src="https://img.shields.io/badge/Whatsapp-D148343?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>         
 </div>
