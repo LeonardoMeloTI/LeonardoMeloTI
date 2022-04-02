@@ -1,4 +1,4 @@
-## Olá, me chamo Leonardo Silva de Melo ! 
+## Olá, me chamo Leonardo e embarquei no mundo da programação ! 
 ### Estou feliz que você chegou até aqui :smiley:
 
 - :hammer: No momento estou trabalhando em um Projeto Pessoal e estudando FullStack na Recode ...
